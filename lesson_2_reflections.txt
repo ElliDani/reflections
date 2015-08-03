@@ -1,0 +1,1 @@
+What happens when you initialize a repository? Why do you need to do it?When you initialize a repository, it allows the folder to be tracked and for you to submit commits to your folder. With the repositiory, you are able to view your commits and track changes made to the files.
